@@ -19,3 +19,7 @@ Api de Monitoramento do projeto de Spring Boot Java 01
 3- Adicione como module e mande rodar em outro porta para testa o a app
 
 File > new > Module from...
+
+4- adicionar no projeto cliente em application.properties (porta do monitor):
+
+spring.boot.admin.client.url=http://localhost:8081
