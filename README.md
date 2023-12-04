@@ -10,7 +10,7 @@ Api de Monitoramento do projeto de Spring Boot Java 01
 	
 	<dependency>
 		<groupId>de.codecentric</groupId>
-		<artifactId>spring-boot-admin-starter-server</artifactId>
+		<artifactId>spring-boot-admin-starter-client</artifactId>
 		<version>3.1.8</version>
  	</dependency>
   
